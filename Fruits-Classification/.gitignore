@@ -1,0 +1,7 @@
+# Local implementation files
+*.py
+*.ipynb
+requirements*.txt
+
+# Generated training outputs
+artifacts/
